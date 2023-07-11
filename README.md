@@ -10,5 +10,5 @@ This is a small project that shows how to implement a digital animated clock in 
 ## Demo
 
 
-https://github.com/d-wolf/flutter_animated_digital_clock/assets/3867384/23e22e44-1123-467e-a023-0c3c0c8729dc
+https://github.com/d-wolf/flutter_animated_digital_clock/assets/3867384/2a4de928-c99c-4f30-8db8-ba74f95b139d
 
